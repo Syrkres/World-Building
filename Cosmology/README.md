@@ -6,7 +6,7 @@ A set of files of beings of great power, include Gods, Demons, Guardians. Origin
 The Planes is a Folder/MD page for each plane with basic information about the planes. (See screen shot below of examples)
 
 ### Cosmology
-https://miniworld.com/obsidian/ObsidianCosmology.jpg
+![Cosmology](https://miniworld.com/obsidian/ObsidianCosmology.jpg)
 
 ### Planes
-https://miniworld.com/obsidian/ObsidianPlanes.jpg
+![Planes](https://miniworld.com/obsidian/ObsidianPlanes.jpg)
