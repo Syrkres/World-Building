@@ -1,6 +1,9 @@
+# Profession Buildings
 This folder contains a collection of buildings by profession.
 
 I'm open to changes, additional information, formatting, etc. 
+
+***Note:* If someone wants to come up with new template I'm happy to give it a run.** (contact me on Obsidian Discord)
 
 When we make changes I will keep the old ones around and just add new versioned files.
 
