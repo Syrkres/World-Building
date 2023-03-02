@@ -1,6 +1,8 @@
 # Collection of NPCs using BagOfTips(ProStashio) Person Template
 These will be a collection of Markdown(.md) files which contain frontmatter to fill out the template. They are randomly generated for each of the professions.
 
+I've added racial banner images for their standard picture, I recommend set 2 as they are cleaner.
+
 
 **BagOfTips github:** https://github.com/BagOfTips/Community-TTRPG-Obsidian-Vault
 
