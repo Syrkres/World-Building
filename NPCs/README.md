@@ -1,5 +1,5 @@
 # Collection of NPCs using BagOfTips(ProStashio) Person Template
-These will be a collection of Markdown(.md) files which contain frontmatter to fill out the template. They are randomly generated for each of the professions.
+These will be a collection of Markdown(.md) files which contain frontmatter to fill out the template. They are randomly generated ~~for each of the professions~~ (I no longer generate by profession as it's easier to just cherry pick NPCs as you need them).
 
 I've added racial banner images for their standard picture, I recommend set 2 as they are cleaner.
 
