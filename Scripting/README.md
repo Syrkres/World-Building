@@ -1,7 +1,7 @@
 # Scripting
 The following files are scripting files including CustomJs, Templates, Inline Scripts.
 
-### Requires:
+## Required Plugins:
 These files minimally require the following Addons:
 - CustomJs - (required core as the main script is written using this)
 - Templates - Allows use of the CustomJS scripts in templates
@@ -18,4 +18,10 @@ The following are the main functions of oRPG.js. There are many more internal fu
 - generateWrittenBook - generates a random book description
 - generateSpirit - generates a random spirit based on race
 
+### Templates
+The following are some sample templates
 
+
+### Inline Scripts
+The following is the main inline script which includes function
+- oRPG.sfile.md - has a bunch of helper methods to call customJS methods.
