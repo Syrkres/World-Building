@@ -9,4 +9,4 @@ I've added racial banner images for their standard picture, I recommend set 2 as
 **Person Template:** https://github.com/BagOfTips/Community-TTRPG-Obsidian-Vault/tree/main/Community%20TTRPG%20Vault/Templates/1.%20DM%20Templates/1.%20Story%20World%20Templates/People
 
 ### Sample of NPC:
-![[https://miniworld.com/obsidian/images/SampleNPC.JPG]]
+![NPC](https://miniworld.com/obsidian/images/SampleNPC.JPG)
