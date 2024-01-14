@@ -1,6 +1,9 @@
 # Scripting
 The following files are scripting files including CustomJs, Templates, Inline Scripts.
 
+**Note:** oRPG.js is uploaded  individually as it contains the rules which I update frequently. It is also in the ZIP file (grab the latest).
+
+
 ## Required Plugins:
 These files minimally require the following Addons:
 - CustomJs - (required core as the main script is written using this)
